@@ -1,3 +1,4 @@
+# Yadnesh
 print("Enter the type of function.")
 print("1-T function\n2-L function\n3-Triangular function\n4-Pie Function\n5-Zadeh function")
 option = int(input())
