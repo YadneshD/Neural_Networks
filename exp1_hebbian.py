@@ -1,3 +1,4 @@
+'''Yadnesh Dhanawade Fr. CRCE'''
 print("Enter the four Bipolar inputs and target values in the order")
 print("x1 x2 y")
 input_array = []
